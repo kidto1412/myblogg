@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://fahrizblog.netlify.com/"
 languageCode = "en-us"
 title = "Fahriz Coding"
 theme = "kross-hugo-portfolio-template"
