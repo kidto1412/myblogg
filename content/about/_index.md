@@ -8,3 +8,12 @@ authorImage : "images/pengembang.jpg"
 ---
 
 Hallo nama saya fahriz dimasqy saya adalah seorang Programmer || Web Developer Saya mempunyai pengalaman PRAKERIN di PT Qtasnim Digital Teknologi dibagian peoduct & solusi dan informasi yang dimana saya menggunakan bahasa pemrograman java untuk membuat sebuah aplikasi dekstop
+
+
+```java
+class HelloWorld{
+    public static void main(String[] argumen){
+        System.out.println("Hello World!");
+    }
+}
+```
